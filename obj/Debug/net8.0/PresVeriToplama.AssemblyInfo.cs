@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PresVeriToplama")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebe818a308572d24e216e333260dbf681acf79ba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d13cd3dd1075ec5caab4dfc7bd00f9f87da9eda")]
 [assembly: System.Reflection.AssemblyProductAttribute("PresVeriToplama")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PresVeriToplama")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
